@@ -1,0 +1,226 @@
+[active] [DS] Comment - https://cartersarg.myvtex.com/admin/message-center/#/templates/dynamic-storage-comentario?page=1&per_page=113 
+
+[active] [PCI] Cancellation - https://cartersarg.myvtex.com/admin/message-center/#/templates/gateway-cancelamento-manual-requerido?page=1&per_page=113 
+
+[active] [PCI] Manual refund - https://cartersarg.myvtex.com/admin/message-center/#/templates/gateway-estorno-manual-requerido?page=1&per_page=113 
+
+[active] [LM] Account registration - https://cartersarg.myvtex.com/admin/message-center/#/templates/licensemanager-cadastro-de-conta?page=1&per_page=113 
+
+[active] bien venido 10 - https://cartersarg.myvtex.com/admin/message-center/#/templates/newsletter-confirmation?page=1&per_page=113 
+
+[active] [PO] Let me know - https://cartersarg.myvtex.com/admin/message-center/#/templates/portal-avise-me?page=1&per_page=113 
+
+[active] Abandoned Cart - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-abandoned-cart?page=1&per_page=113 
+
+[active] [OMS] Order confirmation - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-new-order?page=1&per_page=113 
+
+[active] [OMS] Order cancelled - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-cancelled?page=1&per_page=113 
+
+[active] [OMS] Change of information order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-changed?page=1&per_page=113 
+
+[disabled] [OMS] Order invoiced - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-invoiced?page=1&per_page=113 
+
+[active] [OMS] Cancel billed request - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-invoiced-with-cancel-request?page=1&per_page=113 
+
+[active] [OMS] Order shipped - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-shipped?page=1&per_page=113 
+
+[active] [OMS] Cancel shipped order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-shipped-with-cancel-request?page=1&per_page=113 
+
+[active] [OMS] Order delivered - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-shipping-finished?page=1&per_page=113 
+
+[active] [OMS] Shipping update - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-shipping-update?page=1&per_page=113 
+
+[disabled] [OMS] Payment approved - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-payment-approved?page=1&per_page=113 
+
+[active] [OMS] Payment denied - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-payment-denied?page=1&per_page=113 
+
+[active] [VTEXID] Access Key - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexid_check_email?page=1&per_page=113 
+
+[active] Canceled Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/canceled-subscription?page=1&per_page=113 
+
+[active] catalog-admin-reports - https://cartersarg.myvtex.com/admin/message-center/#/templates/catalog-admin-reports?page=1&per_page=113 
+
+[active] Commissioning Report - https://cartersarg.myvtex.com/admin/message-center/#/templates/commissioning-report?page=1&per_page=113 
+
+[active] [DS] Data export - https://cartersarg.myvtex.com/admin/message-center/#/templates/dynamic-storage-exportacao-de-dados?page=1&per_page=113 
+
+[active] error-export-brands - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-export-brands?page=1&per_page=113 
+
+[active] error-export-categories - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-export-categories?page=1&per_page=113 
+
+[active] error-export-sku-bindings - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-export-sku-bindings?page=1&per_page=113 
+
+[active] error-exporting-received-skus - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-exporting-received-skus?page=1&per_page=113 
+
+[active] error-exporting-sent-offers - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-exporting-sent-offers?page=1&per_page=113 
+
+[active] error-importing-brands - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-importing-brands?page=1&per_page=113 
+
+[active] error-importing-categories - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-importing-categories?page=1&per_page=113 
+
+[active] Error plan import file - https://cartersarg.myvtex.com/admin/message-center/#/templates/error-plan-import-file?page=1&per_page=113 
+
+[active] Expired Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/expired-subscription?page=1&per_page=113 
+
+[active] Export base price list - https://cartersarg.myvtex.com/admin/message-center/#/templates/export-base-price-list?page=1&per_page=113 
+
+[active] Export computed price list - https://cartersarg.myvtex.com/admin/message-center/#/templates/export-computed-price-list?page=1&per_page=113 
+
+[active] Export fixed price list - https://cartersarg.myvtex.com/admin/message-center/#/templates/export-fixed-price-list?page=1&per_page=113 
+
+[active] export-products-catalogv2 - https://cartersarg.myvtex.com/admin/message-center/#/templates/export-products-catalogv2?page=1&per_page=113 
+
+[active] export-sku-bindings - https://cartersarg.myvtex.com/admin/message-center/#/templates/export-sku-bindings?page=1&per_page=113 
+
+[active] Inventory report - https://cartersarg.myvtex.com/admin/message-center/#/templates/exportacao-de-sku?page=1&per_page=113 
+
+[active] exported-brands-map - https://cartersarg.myvtex.com/admin/message-center/#/templates/exported-brands-map?page=1&per_page=113 
+
+[active] exported-category-map - https://cartersarg.myvtex.com/admin/message-center/#/templates/exported-category-map?page=1&per_page=113 
+
+[active] exported-received-skus - https://cartersarg.myvtex.com/admin/message-center/#/templates/exported-received-skus?page=1&per_page=113 
+
+[active] exported-sent-offers - https://cartersarg.myvtex.com/admin/message-center/#/templates/exported-sent-offers?page=1&per_page=113 
+
+[active] [PCI] Anti-fraud configuration - https://cartersarg.myvtex.com/admin/message-center/#/templates/gateway-antifraud-configuration?page=1&per_page=113 
+
+[active] [PCI] Payment settlement error - https://cartersarg.myvtex.com/admin/message-center/#/templates/gateway-captura-pagamento-com-erro?page=1&per_page=113 
+
+[active] [PCI] Connector Status - https://cartersarg.myvtex.com/admin/message-center/#/templates/gateway-connector-status?page=1&per_page=113 
+
+[active] Import Report - https://cartersarg.myvtex.com/admin/message-center/#/templates/import-report?page=1&per_page=113 
+
+[active] [LM] Change in access control - https://cartersarg.myvtex.com/admin/message-center/#/templates/licensemanager-cadastro-de-conta-audit?page=1&per_page=113 
+
+[active] [LM] User register - https://cartersarg.myvtex.com/admin/message-center/#/templates/licensemanager-cadastro-de-usuario?page=1&per_page=113 
+
+[active] Download freight table - https://cartersarg.myvtex.com/admin/message-center/#/templates/logistics-planilha-de-fretes?page=1&per_page=113 
+
+[active] [LOG] Upload freight table - https://cartersarg.myvtex.com/admin/message-center/#/templates/logistics-upload-planilha-de-frete?page=1&per_page=113 
+
+[active] marketplace-network-confirmation - https://cartersarg.myvtex.com/admin/message-center/#/templates/marketplace-network-confirmation?page=1&per_page=113 
+
+[active] marketplace-network-contact - https://cartersarg.myvtex.com/admin/message-center/#/templates/marketplace-network-contact?page=1&per_page=113 
+
+[active] [BRIDGE] Mercado libre- integration - https://cartersarg.myvtex.com/admin/message-center/#/templates/mercadolivreintegracao?page=1&per_page=113 
+
+[disabled] [MC] Message Service Test SMS - https://cartersarg.myvtex.com/admin/message-center/#/templates/messageservice-teste-sms?page=1&per_page=113 
+
+[active] [MC] E-mail sending test - https://cartersarg.myvtex.com/admin/message-center/#/templates/messageservice_teste_email?page=1&per_page=113 
+
+[active] multiple-effect-promotion-error-result - https://cartersarg.myvtex.com/admin/message-center/#/templates/multiple-effect-promotion-error-result?page=1&per_page=113 
+
+[active] Multiple Effect Promotion Success Result - https://cartersarg.myvtex.com/admin/message-center/#/templates/multiple-effect-promotion-success-result?page=1&per_page=113 
+
+[active] New Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/new-subscription?page=1&per_page=113 
+
+[active] Next Subscription Order Reminder - https://cartersarg.myvtex.com/admin/message-center/#/templates/next-subscription-order-reminder?page=1&per_page=113 
+
+[active] [OMS] Sales report export - https://cartersarg.myvtex.com/admin/message-center/#/templates/oms-order-report?page=1&per_page=113 
+
+[active] Paused Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/paused-subscription?page=1&per_page=113 
+
+[active] Payment not approved - https://cartersarg.myvtex.com/admin/message-center/#/templates/payment-not-approved?page=1&per_page=113 
+
+[active] [PO] Customer contact - https://cartersarg.myvtex.com/admin/message-center/#/templates/portal-contato?page=1&per_page=113 
+
+[active] [PO] List suggestion - https://cartersarg.myvtex.com/admin/message-center/#/templates/portal-giftlist-divulgar?page=1&per_page=113 
+
+[active] [PO] Sale from a list - https://cartersarg.myvtex.com/admin/message-center/#/templates/portal-giftlist-pedido-faturado?page=1&per_page=113 
+
+[active] [PRC] Export price list - https://cartersarg.myvtex.com/admin/message-center/#/templates/pricing-export-prices?page=1&per_page=113 
+
+[active] Import price list - https://cartersarg.myvtex.com/admin/message-center/#/templates/pricing-import-prices?page=1&per_page=113 
+
+[active] Promotion Alert - https://cartersarg.myvtex.com/admin/message-center/#/templates/promotion-alert?page=1&per_page=113 
+
+[active] Reactivated Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/reactivated-subscription?page=1&per_page=113 
+
+[active] Inventory import - https://cartersarg.myvtex.com/admin/message-center/#/templates/relatorio-de-importacao-de-estoque?page=1&per_page=113 
+
+[active] [OMS] Report-report-finished - https://cartersarg.myvtex.com/admin/message-center/#/templates/report-report-finished?page=1&per_page=113 
+
+[active] seller-accepted-invite - https://cartersarg.myvtex.com/admin/message-center/#/templates/seller-accepted-invite?page=1&per_page=113 
+
+[active] seller-account-created - https://cartersarg.myvtex.com/admin/message-center/#/templates/seller-account-created?page=1&per_page=113 
+
+[active] seller-connected-active - https://cartersarg.myvtex.com/admin/message-center/#/templates/seller-connected-active?page=1&per_page=113 
+
+[active] seller-connected-inactive - https://cartersarg.myvtex.com/admin/message-center/#/templates/seller-connected-inactive?page=1&per_page=113 
+
+[active] seller-invite - https://cartersarg.myvtex.com/admin/message-center/#/templates/seller-invite?page=1&per_page=113 
+
+[active] Skipped Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/skipped-subscription?page=1&per_page=113 
+
+[active] Subscription Creation Error - https://cartersarg.myvtex.com/admin/message-center/#/templates/subscription-creation-error?page=1&per_page=113 
+
+[active] Subscription Error - https://cartersarg.myvtex.com/admin/message-center/#/templates/subscription-error?page=1&per_page=113 
+
+[active] success-importing-brands - https://cartersarg.myvtex.com/admin/message-center/#/templates/success-importing-brands?page=1&per_page=113 
+
+[active] success-importing-categories - https://cartersarg.myvtex.com/admin/message-center/#/templates/success-importing-categories?page=1&per_page=113 
+
+[active] Success plan import file - https://cartersarg.myvtex.com/admin/message-center/#/templates/success-plan-import-file?page=1&per_page=113 
+
+[active] Unavailable Items - https://cartersarg.myvtex.com/admin/message-center/#/templates/unavailable-items?page=1&per_page=113 
+
+[active] Updated Subscription - https://cartersarg.myvtex.com/admin/message-center/#/templates/updated-subscription?page=1&per_page=113 
+
+[active] [LOG] Notificação de upload de Pickup Point - https://cartersarg.myvtex.com/admin/message-center/#/templates/upload-pickuppoint-notification?page=1&per_page=113 
+
+[active] [OMS] Payment status update - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtex-payment-status-update?page=1&per_page=113 
+
+[active] [OMS] Backoffice order cancel - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-cancel-order-backoffice?page=1&per_page=113 
+
+[active] [OMS] Cancel Order Customer (Store Notification) - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-cancel-order-customer-store-notification?page=1&per_page=113 
+
+[active] [OMS] Order Change Payment - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-change-payment?page=1&per_page=113 
+
+[active] [OMS] Order Refunded - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-refunded?page=1&per_page=113 
+
+[active] [OMS] Payment pending - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-payment-pending?page=1&per_page=113 
+
+[active] [OMS] Recurrence - Edited - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-recurrence-edit?page=1&per_page=113 
+
+[active] [OMS] Recurrence - Error - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-recurrence-error?page=1&per_page=113 
+
+[active] [OMS] Recurrence - Item Unavailable - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-recurrence-item-unavailable?page=1&per_page=113 
+
+[active] [OMS] Recurrence - New - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-recurrence-new?page=1&per_page=113 
+
+[active] [OMS] Recurrence - Next Order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-recurrence-nextorder?page=1&per_page=113 
+
+[active] [OMS] Replace Order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-replace-order?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Cancelled - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-cancel?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - New - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-create?page=1&per_page=113 
+
+[active] [OMS] Subscriptions Expired - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-expired?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Error - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-failorder?page=1&per_page=113 
+
+[active] [OMS] Subscription New Order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-neworder?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - No Order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-noorder?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Item Unavailable - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-partialorder?page=1&per_page=113 
+
+[active] [OMS] Subscriptions Payment Not Approved - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-payment-not-approved?page=1&per_page=113 
+
+[active] [OMS] Subscriptions Reactivated - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-reactivated?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Next Order - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-reminder?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Skipped - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-skip?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Paused - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-stop?page=1&per_page=113 
+
+[active] [OMS] Subscriptions - Edited - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexcommerce-subscriptions-update?page=1&per_page=113 
+
+[active] [VTEXDO] Expired Task - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexdo-expired-task?page=1&per_page=113 
+
+[active] [VTEXDO] New task - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexdo-new-task?page=1&per_page=113 
+
+[active] [VTEXID] Registration Confirmation - https://cartersarg.myvtex.com/admin/message-center/#/templates/vtexid_configure_active_password?page=1&per_page=113 
+
