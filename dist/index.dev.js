@@ -3,9 +3,9 @@
 var puppeteer = require("puppeteer");
 
 var infos = {
-  email: "allisson.neo@corebiz.ag",
-  password: "@AllissonNeo321",
-  link: "https://cartersarg.myvtex.com"
+  email: "teste@gmail.com",
+  password: "12231",
+  link: "teste@myvtex.com"
 };
 
 var robo = function robo(c) {
